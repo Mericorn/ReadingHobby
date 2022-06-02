@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding-top: 800px;
+  text-align: center;
+  
+}
+
+#img1{
+  border-radius: 50%;
+  width: 200px;
+}
+
+#Welcome {
+  position: absolute;
+  bottom: 0;
+  background: linear-gradient( #629776 0%,  #0e4c20 100%);
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+#name {
+  font-size: 50px;
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 300;
+  font-family: monospace;
+}
+
+#bio {
+  font-family: cursive;
+  padding: 50px;
+}
+
+
+  
